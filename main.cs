@@ -6,6 +6,6 @@ class GFG {
     static public void Main()
     {
   
-        Console.WriteLine("Hey there");
+    calculator();
     }
 }
